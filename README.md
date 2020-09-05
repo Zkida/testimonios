@@ -1,2 +1,2 @@
-# testimonios
+# Testimonios
 Simple WP Testimonials Slider
